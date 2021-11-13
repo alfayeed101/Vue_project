@@ -1,0 +1,89 @@
+{
+  "register": [
+    {
+      "fName": "kenechukwu",
+      "email": "a@aol.com",
+      "pwrd": "webfreak55",
+      "c_pwrd": "webfreak55",
+      "id": 1
+    },
+    {
+      "fName": "najite",
+      "email": "naj123@gmail.com",
+      "pwrd": "canadiandreams",
+      "c_pwrd": "canadiandreams",
+      "id": 2
+    },
+    {
+      "fName": "",
+      "email": "",
+      "pwrd": "",
+      "c_pwrd": "",
+      "id": 3
+    },
+    {
+      "fName": "a",
+      "email": "naj123@gmail.com",
+      "pwrd": "webweb",
+      "c_pwrd": "webweb",
+      "id": 4
+    },
+    {
+      "fName": "wendy moore",
+      "email": "w.moore@gmail.com",
+      "pwrd": "dekempite",
+      "c_pwrd": "dekempite",
+      "id": 5
+    },
+    {
+      "fName": "benita itua",
+      "email": "benita.itua@gmail.com",
+      "pwrd": "benitua12",
+      "c_pwrd": "benitua12",
+      "id": 6
+    },
+    {
+      "fName": "a",
+      "email": "a@gmail.com",
+      "pwrd": "dekempite",
+      "c_pwrd": "dekempite",
+      "id": 7
+    },
+    {
+      "fName": "ruth",
+      "email": "ruth@yahoo.com",
+      "pwrd": "rutthie",
+      "c_pwrd": "rutthie",
+      "id": 8
+    },
+    {
+      "fName": "a",
+      "email": "a1@yahoo.com",
+      "pwrd": "rrrrr",
+      "c_pwrd": "rrrrr",
+      "id": 9
+    }
+  ],
+  "signin": [
+    {
+      "email": "a@gmail.com",
+      "pwrd": "dekempite",
+      "id": 1
+    },
+    {
+      "email": "ruth@yahoo.com",
+      "pwrd": "rutthie",
+      "id": 2
+    },
+    {
+      "email": "ruth@yahoo.com",
+      "pwrd": "rutthie",
+      "id": 3
+    },
+    {
+      "email": "a1@yahoo.com",
+      "pwrd": "rrrrr",
+      "id": 4
+    }
+  ]
+}

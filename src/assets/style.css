@@ -1,0 +1,26 @@
+.root-div{
+    height: 100em;
+    }
+
+  .sign-up{
+    max-height: 50em;
+    /* width: 400px; */
+    border: 2px solid white;
+    border-radius: 20px;
+   }
+
+   input{
+       border: 0;
+       border-bottom: 2px solid #ddd;
+       border-radius: 10px;
+   }
+
+   input:focus{
+       box-shadow: none;
+       outline: none;
+       border-bottom: 2px solid rgb(16, 149, 167);
+   }
+
+   .link{
+       color: rgb(16, 149, 167);
+   }
